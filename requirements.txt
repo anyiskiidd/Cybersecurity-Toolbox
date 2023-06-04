@@ -1,0 +1,13 @@
+hashlib
+cryptography
+pycryptodome
+colorama
+requests
+getpass
+string
+random
+secrets
+pyperclip
+socket
+python-nmap
+rarfile
