@@ -32,6 +32,7 @@ The toolbox offers the following features:
 9. Quit: Exit the application.
 
 ## Installation
+![setup](https://github.com/anyiskiidd/Cybersecurity-Toolbox/assets/121064329/8049fce5-13d1-4aa0-86d4-7cf662f9ee5c)
 
 1. Clone the repository:
 
