@@ -369,7 +369,8 @@ def rar_brute_force():
     print(Fore.RED + "Password not found in the wordlist.")
 
 def main_menu():
-    print(Fore.YELLOW + f"=== CYBERSECURITY MENU (Created by {CREATOR}) ===")
+    print(Fore.YELLOW + f"┌──(root㉿kali)-[~]")
+    print(Fore.YELLOW + f"└─# === CYBERSECURITY MENU (Created by {CREATOR}) ===")
     print("1. Scan files")
     print("2. File encryption and decryption")
     print("3. Encrypt text")
